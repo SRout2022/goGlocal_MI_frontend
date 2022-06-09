@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,400i,500');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,900;1,500&family=Poppins:ital,wght@0,300;0,500;1,700&family=Ubuntu:ital,wght@0,500;0,700;1,500;1,700&display=swap');
+
+.container{
+    position: relative;
+    font-family: 'poppins';
+    margin: 4rem auto;
+}
+
+img{
+    height: 18rem;
+    width:100%;
+}
+
+.text-1{
+    position: absolute;
+    top: 2rem;
+    left: 4rem;
+    color: white;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.text-2{
+    position: absolute;
+    top: 4rem;
+    left: 4rem;
+    color: white;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.text-3{
+    position: absolute;
+    width: 45%;
+    top: 8rem;
+    left: 4rem;
+    color: white;
+    font-weight: 300;
+    font-size: 14px;
+}
+
+.button-sec{
+    position: absolute;
+    top: 15rem;
+    left: 4rem;
+}
+
+/* .secondary-btn{
+    width: 6rem;
+    height: 1.9rem;
+    border-radius: 8px;
+    background-color:white;
+    color: black;
+    font-size: 90%;
+    border: none;
+    
+}
+
+.secondary-btn:hover{
+    background-color: lightgrey;
+} */
+
+#home-set-btn{
+    width: 6rem;
+    height: 1.9rem;
+    border-radius: 8px;
+    background-color:white;
+    color: black;
+    font-size: 90%;
+    border: none;
+}
+
+#home-set-btn:hover{
+    background-color: lightgrey;
+}

@@ -1,0 +1,45 @@
+.choice-brang-logo{
+    width: 15%;
+    height: 2rem;
+    margin-right: 5rem;
+}
+
+.choice-brand-info{
+    font-size: 70%;
+    margin-bottom: 1px;
+}
+
+.choice-modal-radio-btn{
+    float:left;
+    /* margin: auto 2rem auto auto; */
+    margin-right: 3rem;
+}
+
+.each-brand-div{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+/* Submit Button */
+
+.buyStore-submit-btn-Div{
+
+    margin-top: 4rem;
+    display: flex;
+    justify-content: center;
+}
+
+.buyStore-submit-btn{
+    width:70%;
+    border-radius: 16px;
+    height: 2.5rem;
+    background-color: #1D1125;
+    color: white;
+    font-size: 90%;
+    border: none;
+}
+
+.buyStore-submit-btn:hover{
+    background-color: blueviolet;
+}

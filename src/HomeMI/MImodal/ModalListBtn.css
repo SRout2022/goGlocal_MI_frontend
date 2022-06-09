@@ -1,0 +1,25 @@
+.sub-top-btn{
+    border-radius: 16px;
+    height: 2.6rem;
+    font-size: 12px;
+    width: fit-content;
+    color:#2C1B37;
+    border-color: #2C1B37;
+  }
+
+#item-btn-selec-prod{
+    background: rgba(47, 29, 60, 0.61);
+    border: none;
+    margin-right: 1rem;
+  }
+  
+  .cross-sec{
+    background-color: #2C1B37;
+    width: 1.5rem;
+    border-radius: 10px;
+    border: none;
+    margin-left: 0.5rem;
+    color: #FFFFFF;
+  
+  }
+  
